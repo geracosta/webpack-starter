@@ -1,0 +1,9 @@
+html, body {
+    margin:  0;
+    background-color: grey;
+}
+
+img {
+    width: 50 px;
+    height: 100px;
+}
